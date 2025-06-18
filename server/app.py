@@ -12,6 +12,8 @@ def create_app():
     db.init_app(app)
     migrate.init_app(app, db)
 
-    # Register blueprints here later if needed
+    # blueprints 
+
+
 
     return app
