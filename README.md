@@ -15,7 +15,7 @@ A RESTful Flask API to manage restaurants, pizzas, and their pricing using SQLAl
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/pizza-api-challenge.git
+git clone https://github.com/r0dn3y7/pizza-api-challenge.git
 cd pizza-api-challenge
 ````
 
