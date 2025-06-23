@@ -212,4 +212,3 @@ git commit -m "Add complete README with setup and API documentation"
 git push
 ````
 
-Want a sample video walkthrough script or blog post outline too? I’ve got those slices ready.
