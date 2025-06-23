@@ -1,8 +1,6 @@
-Absolutely, Roddy. Here's your **GitHub-ready `README.md`** for the Pizza Restaurant API — just copy-paste this into your GitHub `README.md` file:
 
----
 
-````markdown
+````
 # 🍕 Pizza Restaurant API
 
 A RESTful Flask API to manage restaurants, pizzas, and their pricing using SQLAlchemy and Flask-Migrate. No frontend, just pure backend sauce. Tested using Postman.
